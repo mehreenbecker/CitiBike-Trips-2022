@@ -47,7 +47,7 @@ Interactive Kepler.gl visualization of trip corridors and clustering.
 
 ### 5️⃣ Additional Insights
 Trip duration analysis by rider type (member vs casual).
-![Dashboard Screenshot](images/insights.png)
+![Dashboard Screenshot](images/insight.png)
 
 ### 6️⃣ Recommendations
 Strategic suggestions for supply scaling, rebalancing, and station expansion.
