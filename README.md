@@ -31,6 +31,7 @@ The Streamlit dashboard includes:
 
 ### 1️⃣ Intro Page
 Overview of the dataset, KPIs, and project objectives.
+![Dashboard Screenshot](images/intro.png)
 
 ### 2️⃣ Trips vs Temperature
 Dual-axis line chart showing seasonal ridership trends and weather correlation.
