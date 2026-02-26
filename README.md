@@ -47,6 +47,7 @@ Trip duration analysis by rider type (member vs casual).
 ### 6️⃣ Recommendations
 Strategic suggestions for supply scaling, rebalancing, and station expansion.
 
+
 ---
 
 ## 🔍 Key Insights
@@ -78,7 +79,7 @@ streamlit run app_Part_2.py
 
 ## 🌐 Live Dashboard
 
-[Add your Streamlit Cloud link here once deployed]
+https://citibike-trips-2022-avzzkucjo9ymzvvjrhvdce.streamlit.app/
 
 ---
 
