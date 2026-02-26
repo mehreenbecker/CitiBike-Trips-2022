@@ -54,3 +54,40 @@ Strategic suggestions for supply scaling, rebalancing, and station expansion.
 - Member riders exhibit shorter, commuter-like trips; casual riders show longer recreational patterns.
 
 ---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+git clone https://github.com/mehreenbecker/CitiBike-Trips-2022.git
+cd CitiBike-Trips-2022
+
+2. Create and activate a virtual environment:
+python3 -m venv .venv
+source .venv/bin/activate
+
+3. Install dependencies:
+pip install -r requirements.txt
+
+4. Run the dashboard:
+streamlit run app_Part_2.py
+
+---
+
+## 🌐 Live Dashboard
+
+[Add your Streamlit Cloud link here once deployed]
+
+---
+
+## 📊 Data Sources
+
+- NYC Citi Bike Trip Data (2022)
+- NOAA Weather Data (LGA station)
+
+---
+
+## 👩‍💻 Author
+
+Mehreen Werth  
+Data Analytics & Visualization Project
+
