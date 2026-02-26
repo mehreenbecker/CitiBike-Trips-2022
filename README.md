@@ -35,19 +35,22 @@ Overview of the dataset, KPIs, and project objectives.
 
 ### 2️⃣ Trips vs Temperature
 Dual-axis line chart showing seasonal ridership trends and weather correlation.
+![Dashboard Screenshot](images/trips_vs_temperature_(seasonality).png)
 
 ### 3️⃣ Popular Stations
 Bar chart of the top 20 starting stations highlighting demand concentration.
+![Dashboard Screenshot](images/popular_stations.png)
 
 ### 4️⃣ Origin–Destination Map
 Interactive Kepler.gl visualization of trip corridors and clustering.
 
 ### 5️⃣ Additional Insights
 Trip duration analysis by rider type (member vs casual).
+![Dashboard Screenshot](images/extra_insights.png)
 
 ### 6️⃣ Recommendations
 Strategic suggestions for supply scaling, rebalancing, and station expansion.
-
+![Dashboard Screenshot](images/recommendations.png)
 
 ---
 
